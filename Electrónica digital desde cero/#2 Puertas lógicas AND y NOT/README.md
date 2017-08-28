@@ -1,4 +1,4 @@
-﻿#Puertas lógicas AND y NOT
+﻿# Puertas lógicas AND y NOT
 En esta ocasión aprendemos que son las puertas lógicas y cómo funcionan dos de las más conocidas.
 
 El primer ejemplo usa una puerta NOT para entender el funcionamiento de la misma. Trata de encender un LED mientras que el pulsador no se encuentra pulsado y apagarlo cuando se está pulsando. 
